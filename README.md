@@ -6,9 +6,9 @@ Each solution comes with a detailed explanation of the problem, the intuition be
 
 ## Problem Table
 
-| Problem No. | Problem | Description | Difficulty | Topics | Solution |
-| ----------- | ------- | ----------- | ---------- | ------ | -------- |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/){:target="_blank"} | Merge two sorted arrays in-place | Easy | Array, Two Pointers, Sorting | [Solution](solutions/0088-merge-sorted-array.md) |
+| Problem |Solution |
+| ------- | -------- |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python/C++/C#/Java/JavaScript] (solutions/0088-merge-sorted-array.md) |
 
 
 More solutions will be added over time.
