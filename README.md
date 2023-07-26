@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for [vanAmsen's coding channel](https://www.youtube.com/channel/UCK3RD5HI2m5tstY-qHCDYjg)!
 
-This repository contains solutions to various problems from [LeetCode](https://leetcode.com/). The goal of this project is to provide clear and efficient solutions for learning and reference.
+This repository contains solutions to various problems from [LeetCode - vanAmsen](https://leetcode.com/vanAmsen/). The goal of this project is to provide clear and efficient solutions for learning and reference.
 
 Each solution comes with a detailed explanation of the problem, the intuition behind the solution, the approach used, and the time and space complexity analysis.
 
