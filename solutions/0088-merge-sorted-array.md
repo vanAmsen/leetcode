@@ -1,8 +1,6 @@
 ## Intuition
 The first intuition that comes to mind when trying to solve this problem is to use the basic concept of merging two sorted arrays. However, the twist here is that the merging has to be done in-place in the first array, `nums1`, without using any additional space. The requirement to perform the operation in-place hints towards using pointers to keep track of our position in the arrays.
 
-https://youtu.be/TE-PpnvQ3_U
-
 ## Approach
 Our approach to solving this problem is to use a two-pointer method, where each pointer points to the last element of `nums1` and `nums2` respectively. We also initialize a pointer `p` at the end of `nums1` to keep track of where to place the larger element from either `nums1` or `nums2`. 
 
@@ -21,5 +19,8 @@ In case there are remaining elements in `nums2`, we copy them over to `nums1`. T
 - [Java](java/0088-merge-sorted-array.java)
 - [C#](csharp/0088-merge-sorted-array.cs)
 - [JavaScript](javascript/0088-merge-sorted-array.js)
+
+## Video Solutions
+- [Python](https://youtu.be/TE-PpnvQ3_U)
 
 This code successfully merges two sorted arrays in-place, ensuring that the resulting `nums1` is a sorted array combining the elements of `nums1` and `nums2`. Happy coding! 🎉👩‍💻
