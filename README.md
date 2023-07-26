@@ -8,9 +8,11 @@ Each solution comes with a detailed explanation of the problem, the intuition be
 
 ## Problem Table
 
-| Problem | Solution | Python | C++ | Java | JavaScript | C# |
-| ------- | -------- | ------ | --- | ---- | ---------- | -- |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) | | | | |
+| Problem | Solution | Python Code | Python Video | C++ Code | C++ Video | Java Code | Java Video | JavaScript Code | JavaScript Video | C# Code | C# Video |
+| ------- | -------- | ----------- | ------------ | -------- | --------- | --------- | ---------- | --------------- | ---------------- | ------- | -------- |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](solutions/0088-merge-sorted-array.md) | [💻](solutions/python/0088-merge-sorted-array.py) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/cpp/0088-merge-sorted-array.cpp) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/java/0088-merge-sorted-array.java) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/javascript/0088-merge-sorted-array.js) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/csharp/0088-merge-sorted-array.cs) | [🎥](https://youtu.be/TE-PpnvQ3_U) |
+
+
 
 ## License
 
