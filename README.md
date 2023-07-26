@@ -6,15 +6,15 @@ This repository contains solutions to various problems from [LeetCode](https://l
 
 Each solution comes with a detailed explanation of the problem, the intuition behind the solution, the approach used, and the time and space complexity analysis.
 
-> Solutions are provided in the following languages: Python, Java, JavaScript, C++, Go, Swift, C#, TypeScript, Rust, Kotlin, Ruby, C, Scala, and Dart. 
+> Solutions are provided in the following languages: Python, Java, JavaScript, C++, C#, Rust, Go. 
 
 Contributions for solutions in other languages are also welcome!
 
 ## Problem Table
 
-| Problem | Solution | Python | JavaScript | C++ | Java | C# | Rust | Go |
+| Problem | Solution | Python | JS | C++ | Java | C# | Rust | Go |
 | ------- | -------- | ------ | -----------| ----| -----| -- | ---- | -- |
-| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [✔️](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) [🚀](https://youtu.be/TE-PpnvQ3_U) | [✔️](solutions/javascript/0088-merge-sorted-array.js) | [✔️](solutions/cpp/0088-merge-sorted-array.cpp) | [✔️](solutions/java/0088-merge-sorted-array.java) | [✔️](solutions/csharp/0088-merge-sorted-array.cs) | [✔️](solutions/rust/0088-merge-sorted-array.rs) | [✔️](solutions/go/0088-merge-sorted-array.go) |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [✔️](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) [🚀](https://youtu.be/TE-PpnvQ3_U) | [✔️](solutions/javascript/0088-merge-sorted-array.js) | [✔️](solutions/cpp/0088-merge-sorted-array.cpp) | [✔️](solutions/java/0088-merge-sorted-array.java) | [✔️](solutions/csharp/0088-merge-sorted-array.cs) | [❌](solutions/rust/0088-merge-sorted-array.rs) | [❌](solutions/go/0088-merge-sorted-array.go) |
 
 
 
