@@ -8,7 +8,7 @@ Each solution comes with a detailed explanation of the problem, the intuition be
 
 | Problem |Solution |
 | ------- | -------- |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python/C++/C#/Java/JavaScript] (solutions/0088-merge-sorted-array.md) |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Python/C++/C#/Java/JavaScript](solutions/0088-merge-sorted-array.md) |
 
 
 More solutions will be added over time.
