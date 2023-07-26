@@ -14,9 +14,13 @@ In case there are remaining elements in `nums2`, we copy them over to `nums1`. T
 - Space complexity: The space complexity of the solution is \(O(1)\), which is constant, because we are not using any additional space that scales with input size. The merging is done in-place in the array `nums1`.
 
 ## Code
-``` Python []
-python/0088-merge-sorted-array.py
-```
+```python
+with open('file.py', 'r') as file:
+    python_code = file.read()
+
+markdown_content = f"""
+```python
+{python_code}
 
 You can find the complete Python solution [here](python/0088-merge-sorted-array.py).
 
