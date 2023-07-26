@@ -11,7 +11,9 @@ Each solution comes with a detailed explanation of the problem, the intuition be
 Contributions for solutions in other languages are also welcome!
 
 ## Problem Table
-
+✔️ - Code
+🚀 - Video
+❌ - Missing
 | Problem | Solution | Python | JS | C++ | Java | C# | Rust | Go |
 | ------- | -------- | ------ | -----------| ----| -----| -- | ---- | -- |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [✔️](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) [🚀](https://youtu.be/TE-PpnvQ3_U) | [✔️](solutions/javascript/0088-merge-sorted-array.js) | [✔️](solutions/cpp/0088-merge-sorted-array.cpp) | [✔️](solutions/java/0088-merge-sorted-array.java) | [✔️](solutions/csharp/0088-merge-sorted-array.cs) | [❌](solutions/rust/0088-merge-sorted-array.rs) | [❌](solutions/go/0088-merge-sorted-array.go) |
