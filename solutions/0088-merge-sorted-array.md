@@ -13,16 +13,11 @@ In case there are remaining elements in `nums2`, we copy them over to `nums1`. T
 
 - Space complexity: The space complexity of the solution is \(O(1)\), which is constant, because we are not using any additional space that scales with input size. The merging is done in-place in the array `nums1`.
 
-## Code
-```python
-with open('file.py', 'r') as file:
-    python_code = file.read()
-
-markdown_content = f"""
-```python
-{python_code}
-
-You can find the complete Python solution [here](python/0088-merge-sorted-array.py).
-
+## Code Solutions
+- [Python](python/0088-merge-sorted-array.py)
+- [C++](cpp/0088-merge-sorted-array.cpp)
+- [Java](java/0088-merge-sorted-array.java)
+- [C#](csharp/0088-merge-sorted-array.cs)
+- [JavaScript](javascript/0088-merge-sorted-array.js)
 
 This code successfully merges two sorted arrays in-place, ensuring that the resulting `nums1` is a sorted array combining the elements of `nums1` and `nums2`. Happy coding! 🎉👩‍💻
