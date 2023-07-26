@@ -21,6 +21,8 @@ In case there are remaining elements in `nums2`, we copy them over to `nums1`. T
 - [Java](java/0088-merge-sorted-array.java)
 - [C#](csharp/0088-merge-sorted-array.cs)
 - [JavaScript](javascript/0088-merge-sorted-array.js)
+- [Rust](rust/0088-merge-sorted-array.rs)
+- [Go](go/0088-merge-sorted-array.go)
 
 ## Video Solutions
 - [Python](https://youtu.be/TE-PpnvQ3_U)
