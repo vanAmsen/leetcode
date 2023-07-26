@@ -22,4 +22,14 @@ In case there are remaining elements in `nums2`, we copy them over to `nums1`. T
 ```
 You can find the complete Python solution [here](solutions/python/0088-merge-sorted-array.py).
 
+with open('solutions/python/0088-merge-sorted-array.py', 'r') as file:
+    python_code = file.read()
+
+markdown_content = f"""
+## Code
+
+```python
+{python_code}
+
+
 This code successfully merges two sorted arrays in-place, ensuring that the resulting `nums1` is a sorted array combining the elements of `nums1` and `nums2`. Happy coding! 🎉👩‍💻
