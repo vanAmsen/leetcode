@@ -4,13 +4,18 @@ Welcome to the GitHub repository for [vanAmsen's coding channel](https://www.you
 
 This repository contains solutions to various problems from [LeetCode](https://leetcode.com/). The goal of this project is to provide clear and efficient solutions for learning and reference.
 
-Each solution comes with a detailed explanation of the problem, the intuition behind the solution, the approach used, and the time and space complexity analysis. Solutions are provided in the following languages: Python, Java, JavaScript, C++, Go, Swift, C#, TypeScript, Rust, Kotlin, Ruby, C, Scala, and Dart. Contributions for solutions in other languages are also welcome!
+Each solution comes with a detailed explanation of the problem, the intuition behind the solution, the approach used, and the time and space complexity analysis.
+
+> Solutions are provided in the following languages: Python, Java, JavaScript, C++, Go, Swift, C#, TypeScript, Rust, Kotlin, Ruby, C, Scala, and Dart. 
+
+Contributions for solutions in other languages are also welcome!
 
 ## Problem Table
 
-| Problem | Solution | Python Code | Python Video | C++ Code | C++ Video | Java Code | Java Video | JavaScript Code | JavaScript Video | C# Code | C# Video |
-| ------- | -------- | ----------- | ------------ | -------- | --------- | --------- | ---------- | --------------- | ---------------- | ------- | -------- |
-| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](solutions/0088-merge-sorted-array.md) | [💻](solutions/python/0088-merge-sorted-array.py) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/cpp/0088-merge-sorted-array.cpp) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/java/0088-merge-sorted-array.java) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/javascript/0088-merge-sorted-array.js) | [🎥](https://youtu.be/TE-PpnvQ3_U) | [💻](solutions/csharp/0088-merge-sorted-array.cs) | [🎥](https://youtu.be/TE-PpnvQ3_U) |
+| Problem | Solution | Python | JavaScript | C++ | Java | C# | 
+| ------- | -------- | ------ | -----------| ----| -----| -- |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [✔️](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) [🚀](https://youtu.be/TE-PpnvQ3_U) | | | | | 
+
 
 
 
