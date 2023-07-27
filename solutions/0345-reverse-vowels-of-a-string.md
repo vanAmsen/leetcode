@@ -1,4 +1,4 @@
-#🔄 Reverse Vowels, Not Consonants! Mastering the Two-Pointer Technique in Python 🐍
+# 🔄 Reverse Vowels, Not Consonants! Mastering the Two-Pointer Technique in Python 🐍
 
 # Intuition
 When first encountering this problem, it's clear that we need a way to traverse the string and identify the vowels that need to be reversed. Since we only need to reverse the vowels and keep the consonants in their place, a brute force approach of reversing the entire string won't work here. Hence, we'll need a way to traverse from both ends of the string and swap the vowels when we encounter them.
