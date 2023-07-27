@@ -10,6 +10,16 @@ Each solution comes with a detailed explanation of the problem, the intuition be
 
 Contributions for solutions in other languages are also welcome!
 
+## Solutions 
+
+- [Python](solutions/python)
+- [JavaScript](solutions/javascript)
+- [C++](solutions/cpp)
+- [Java](solutions/java)
+- [C#](solutions/csharp)
+- [Rust](solutions/rust)
+- [Go](solutions/go)
+
 ## Problem Table
 ✔️ - Code
 🚀 - Video
