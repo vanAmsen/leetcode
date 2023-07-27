@@ -19,6 +19,7 @@ Contributions for solutions in other languages are also welcome!
 | Problem | Q&A | Python | JS | C++ | Java | C# | Rust | Go |
 | ------- | -------- | ------ | -----------| ----| -----| -- | ---- | -- |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [📚](tasks/0088-merge-sorted-array.md) [🎯](solutions/0088-merge-sorted-array.md) | [✔️](solutions/python/0088-merge-sorted-array.py) [🚀](https://youtu.be/TE-PpnvQ3_U) | [✔️](solutions/javascript/0088-merge-sorted-array.js) | [✔️](solutions/cpp/0088-merge-sorted-array.cpp) | [✔️](solutions/java/0088-merge-sorted-array.java) | [✔️](solutions/csharp/0088-merge-sorted-array.cs) | [✔️](solutions/rust/0088-merge-sorted-array.rs) | [✔️](solutions/go/0088-merge-sorted-array.go) |
+| [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) |
 
 
 
