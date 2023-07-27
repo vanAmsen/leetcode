@@ -24,3 +24,14 @@ class Solution:
                 right = target - 1 
         return left 
 ```                                                                                                      
+# Code Solutions
+- [Python](python/2141-maximum-running-time-of-n-computers.py)
+- [C++](cpp/2141-maximum-running-time-of-n-computers.cpp)
+- [Java](java/2141-maximum-running-time-of-n-computers.java)
+- [C#](csharp/2141-maximum-running-time-of-n-computers.cs)
+- [JavaScript](javascript/2141-maximum-running-time-of-n-computers.js)
+
+# Video Solutions
+- [Python](https://youtu.be/xnkXF1Yed94)
+
+Please replace the URL with the actual URL of the video where you solved "2141-maximum-running-time-of-n-computers". The links to the code solutions should also be updated to point to the actual files.
