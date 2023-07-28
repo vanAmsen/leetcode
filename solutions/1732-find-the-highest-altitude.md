@@ -1,3 +1,5 @@
+# 🎯 Finding the Longest Subarray of 1's After Deleting One Element
+
 # Intuition
 My first thought to solve this problem is to use an incremental approach. Given that we start at altitude 0, we can keep adding the 'gain' at each step to get the new altitude and track the maximum altitude reached at any point. This approach makes sense as the altitude at a given point is simply the sum of all the gains till that point.
 
