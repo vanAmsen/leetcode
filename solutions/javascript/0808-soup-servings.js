@@ -3,7 +3,7 @@
  * @return {number}
  */
 var soupServings = function(N) {
-    if (N > 4800) {
+    if (N > 4451) {
         return 1.0;
     }
     N = Math.floor((N + 24) / 25);
