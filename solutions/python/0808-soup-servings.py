@@ -1,6 +1,6 @@
 class Solution:
     def soupServings(self, n: int) -> float:
-        if n > 4800: 
+        if n > 4451: 
             return 1.0
         n = (n + 24) // 25
         memo = dict()
