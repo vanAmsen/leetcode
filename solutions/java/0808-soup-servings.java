@@ -2,7 +2,7 @@ class Solution {
     private HashMap<Pair<Integer, Integer>, Double> memo = new HashMap<>();
 
     public double soupServings(int N) {
-        if (N > 4800) {
+        if (N > 4451) {
             return 1.0;
         }
         N = (N + 24) / 25;
