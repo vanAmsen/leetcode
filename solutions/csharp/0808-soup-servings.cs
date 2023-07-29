@@ -2,7 +2,7 @@ public class Solution {
     Dictionary<Tuple<int, int>, double> memo = new Dictionary<Tuple<int, int>, double>();
 
     public double SoupServings(int N) {
-        if (N > 4800) {
+        if (N > 4451) {
             return 1.0;
         }
         N = (N + 24) / 25;
