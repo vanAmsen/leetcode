@@ -14,12 +14,12 @@ Contributions for solutions in other languages are also welcome!
 
 - [Intuition / Approach / Complexity](solutions/)
 - [Python](solutions/python)
+- [Rust](solutions/rust)
+- [Go](solutions/go)
 - [JavaScript](solutions/javascript)
 - [C++](solutions/cpp)
 - [Java](solutions/java)
 - [C#](solutions/csharp)
-- [Rust](solutions/rust)
-- [Go](solutions/go)
 
 ## License
 
