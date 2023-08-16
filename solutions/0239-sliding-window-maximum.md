@@ -2,7 +2,7 @@
 
 In the "Sliding Window Maximum" problem, we are given an array of integers `nums` and an integer `k` representing the size of the sliding window. The task is to determine the maximum value in each sliding window as it moves from the beginning to the end of the array.
 
-For instance, given the array  `\text{nums} = [1,3,-1,-3,5,3,6,7]`  and  k = 3 , the output should be $$[3,3,5,5,6,7]$$.
+For instance, given the array $$ \text{nums} = [1,3,-1,-3,5,3,6,7] $$ and $$ k = 3 $$, the output should be $$[3,3,5,5,6,7]$$.
 
 **Input**: nums = $$[1,3,-1,-3,5,3,6,7]$$, $$k = 3$$
 **Output**: $$[3,3,5,5,6,7]$$
